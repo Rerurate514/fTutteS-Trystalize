@@ -1,0 +1,6 @@
+/node_modules
+/tsconfig.json
+/rollup.config.js
+/examples
+/test
+/.rollup.cache/
