@@ -16,10 +16,6 @@
   "author": "Rerurate_514",
   "license": "MIT",
   "description": "",
-  "dependencies": {
-    "commander": "^14.0.0",
-    "fs-extra": "^11.3.0"
-  },
   "peerDependencies": {
     "ftuttes": "*"
   },
@@ -28,6 +24,7 @@
     "@rollup/plugin-node-resolve": "^16.0.1",
     "@rollup/plugin-terser": "^0.4.4",
     "@rollup/plugin-typescript": "^12.1.2",
+    "rimraf": "^6.0.1",
     "rollup": "^4.40.2"
   },
   "files": [
